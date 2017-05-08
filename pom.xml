@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.cdnsun</groupId>
-    <artifactId>token-generator</artifactId>
+    <artifactId>url-signing-function-java</artifactId>
     <version>1.0</version>
-    <name>token-generator</name>
+    <name>url-signing-function-java</name>
 
     <properties>
         <mavenJarPluginVersion>2.3.1</mavenJarPluginVersion>
