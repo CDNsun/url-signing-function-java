@@ -7,9 +7,9 @@ REQUIRES
 
 BUILD
 
-  To build the generator go to /TokenGenerator/ and run the following command:
+  To build the generator go to /url-signing-function-java/ and run the following command:
 ```
-mvn clean install
+mvn clean package
 ```
   Upon success of the build, you will find the jar file (**token-generator.jar**) in the folder named ***target***
 
